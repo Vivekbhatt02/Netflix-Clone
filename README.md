@@ -15,12 +15,6 @@ A responsive Netflix clone built using HTML and CSS. The project mimics the look
 - **HTML5**: For structuring the web page.
 - **CSS3**: For styling and layout.
 
-## Preview
-
-Here’s a glimpse of the project:
-
-![Netflix Clone Preview](assets/images/preview.png)
-
 ## Setup
 
 Follow the steps below to set up and run the project locally:
@@ -60,7 +54,6 @@ Netflix-Clone/
 │   ├── images/
 │   │   ├── bg.jpg
 │   │   ├── logo.svg
-│   │   └── preview.png
 │   └── videos/
 │       ├── video-tv-in-0819.m4v
 │       └── video-devices-in.m4v
